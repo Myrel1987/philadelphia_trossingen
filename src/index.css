@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-  background-color: black;
+  background-color: hsla(205, 100%, 10%, 0.7);
 }
